@@ -1,2 +1,6 @@
 # Graph-RAG
- Retrieval Augmented Generation using Knowledge Graphs using neo4j
+ Retrieval Augmented Generation using Knowledge Graphs
+
+Components:
+Graph Database - neo4j
+LLM - OpenAI GPT-4
