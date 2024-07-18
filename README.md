@@ -3,6 +3,6 @@
 
 Components:
 
-Graph Database - neo4j
+1. Graph Database - neo4j
 
-LLM - OpenAI GPT-4
+2. LLM - OpenAI GPT-4
