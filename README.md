@@ -6,3 +6,5 @@ Components:
 1. Graph Database - neo4j
 
 2. LLM - OpenAI GPT-4
+
+3. Interface - Streamlit
